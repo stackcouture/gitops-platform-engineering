@@ -1,0 +1,9 @@
+[submodule "platform-infra"]
+	path = platform-infra
+	url = https://github.com/stackcouture/platform-infra/
+[submodule "voting-app"]
+	path = voting-app
+	url = https://github.com/stackcouture/voting-app
+[submodule "gitops-microservices-platform"]
+	path = gitops-microservices-platform
+	url = https://github.com/stackcouture/gitops-microservices-platform
